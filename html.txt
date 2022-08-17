@@ -1,0 +1,508 @@
+
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>EnglishClub - Learn or Teach English Today</title>
+<meta content="Free online resources for learning English 🇬🇧🇺🇸 or teaching it. From easy guides to grammar to fun games and quizzes." name="description">
+<link rel="stylesheet" href="https://www.englishclub.com/respo.css" />
+<link rel="canonical" href="https://www.englishclub.com/" />
+<meta name="msvalidate.01" content="8CB6E5325DB2AE21696469C97CB70665" />
+
+<meta property="og:image" content="https://www.englishclub.com/images/logos/english-club-300.png">
+<meta property="og:url" content="https://www.englishclub.com/">
+<meta property="og:site_name" content="EnglishClub">
+
+<style>
+a {text-decoration: none;}
+h1 a {color: #cc5a0e}
+h2 a {color: #cc5a0e}
+</style>
+
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="d8522fbc-c78e-439a-adf7-1c6be4c15c30" data-blockingmode="auto" type="text/javascript"></script>
+
+
+<script defer data-domain="englishclub.com" src="https://plausible.io/js/script.outbound-links.file-downloads.js"></script>
+
+
+<!--AutoAds-->
+<script data-ad-client="ca-pub-3505543279168530" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!--AutoAds-->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="google" value="notranslate">
+
+<link rel="alternate" type="application/rss+xml" title="RSS Feed for EnglishClub.com" href="https://www.englishclub.com/feed.xml" />
+
+
+<!--FAVICON.IO-->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<!--FAVICON.IO-->
+
+
+
+<!--HEADER2022-->
+<style>
+
+.gsc-search-button-v2 {
+padding: 15px 20px !important;
+border-color: #808080 !important;
+background-color: #808080 !important;
+}
+
+header#respo20 {margin: 1em 0 0; font-family: PT Sans, San Francisco, Helvetica Neue, Roboto, Helvetica, Arial, sans-serif; font-size: 16px}
+header a {text-decoration: none;}
+.eclogo {width: 120px; margin-left: 0; vertical-align: bottom;}
+
+#l {float: left;padding: 0 .5em 0 10px;margin-bottom: 5px;}
+#r {float: right;text-align: right;font-size: .8rem;font-weight: 600;}
+#r a {color: #333;padding-right: .7em;}
+
+nav.ecscroll a {color: #ffffff; margin-right: .7em}
+nav.ecscroll {white-space: nowrap;overflow-x: auto;font-size: small;background: #AD7620;padding: 3px 10px;text-align:left;}
+
+@media (min-width: 700px){
+.eclogo {width: 200px; height: 44px}
+nav#r {font-size: 1.2rem; font-weight: normal;}
+nav.ecscroll {padding: 7px 21px;}
+nav.ecscroll a {margin-right: 1em}
+}
+
+</style>
+<!--HEADER2020-->
+<!-- !!! tong chai absolute urls tee HP (prorwah redirects vont bai subdoms gaow)-->
+</head>
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<header style="padding: .5em 0 0;" id="respo20" class="ECnoprint">
+
+<div>
+<nav id="l">
+<a href="/"><img class="eclogo" src="/images/english-club-22.png" alt="EnglishClub"></a>
+</nav>
+<nav id="r">
+<a href="/learn-english.htm">LEARN</a>
+<a href="/teach/">TEACH</a>
+<a href="https://www.myenglishclub.com/">MYEC</a>
+<a href="/store/">eBOOKS</a>
+</nav>
+</div>
+
+<script async src="https://cse.google.com/cse.js?cx=partner-pub-3505543279168530:3187831177"></script>
+<div class="gcse-search"></div>
+
+<nav class="ecscroll" style="clear: both;">
+<a href="/about/">About</a>
+<a href="http://eepurl.com/dNv-06">JOIN</a>
+<a href="/esl-forums/">Forums</a>
+<a href="/grammar/">Grammar</a>
+<a href="/vocabulary/">Vocabulary</a>
+<a href="/pronunciation/">Pronunciation</a>
+<a href="/listening/">Listening</a>
+<a href="/speaking/">Speaking</a>
+<a href="/reading/">Reading</a>
+<a href="/writing/">Writing</a>
+<a href="/efl/guestbook/">Guest</a>
+<a href="/efl/ec/7-secrets-for-esl-learners/">7 Secrets</a>
+<a href="https://www.equiz.me">eQuiz.Me</a>
+<a href="https://www.tefl.net">TEFL.NET</a>
+<a href="/learn-english.htm">More...</a>
+</nav>
+
+<center>
+<aside style="margin: .7em 0 .3em; text-align: center;">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ECHed display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3505543279168530"
+     data-ad-slot="1061904304"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</aside>
+</center>
+
+</header>
+<nav class="ec-navbar" style="margin: .7em 0 1.5em" itemprop="breadcrumb">
+<h1 style="text-align: left; font-size: 14px; margin-top: 0; margin-bottom: 0">EnglishClub <span style="font-weight: normal;">- helping you <a href="/learn-english.htm" title="learn English">learn</a> or <a href="/teach/" title="teach English">teach</a> English 🇬🇧🇺🇸 since 1997</span></h1>
+</nav>
+
+<main id="ec-main">
+
+<div class="l" style="text-align: left">
+
+<h2 style="margin-top: 0"><a href="/learn-english.htm">Learn English</a></h2>
+
+<p>
+<a href="/efl/category/listen-learn/"><img src="images/podcasts/avatar.jpg" alt="Listen &amp; Learn English" width="100" height="100"/></a> 
+<a href="/esl-videos/"><img src="images/esl-videos/learning-english-video-project-200.png" alt="Learning English Video Project" width="144" height="100"/></a>
+</p>
+
+<ul>
+<li><strong><a href="/grammar/">Grammar Lessons</a></strong><br><span class="ec-small"><a href="grammar/parts-of-speech.htm">Parts of Speech</a>, <a href="grammar/verbs.htm">Verbs</a>, <a href="grammar/nouns.htm">Nouns</a>, <a href="grammar/adjectives.htm">Adjectives</a>, <a href="grammar/adverbs.htm">Adverbs</a>, <a href="grammar/#sentence">Sentences</a>...</span></li>
+<li><strong><a href="/vocabulary/">Vocabulary Lessons</a></strong><br><span class="ec-small"><a href="vocabulary/topic.htm">Topic Vocabulary</a>, <a href="vocabulary/reference.htm">Reference</a>, <a href="vocabulary/word-classes.htm">Word Class</a>...</span></li>
+<li><strong><a href="/pronunciation/">Pronunciation Lessons</a></strong> 🔊<br><span class="ec-small"><a href="pronunciation/word-stress.htm">Word Stress</a>, <a href="pronunciation/sentence-stress.htm">Sentence Stress</a>, <a href="pronunciation/linking.htm">Linking</a>...</span></li>
+<li><strong><a href="/listening/">Listening Lessons</a></strong> 🔊<br><span class="ec-small"><a href="/efl/category/listen-learn/">LISTEN & LEARN</a>, <a href="/listening/radio.htm">Radio</a>, <a href="https://www.englishclub.com/listening/dictation.htm">Dictation</a>...</span></li>
+<li><strong><a href="https://www.englishclub.com/speaking/">Speaking Lessons</a></strong> 🔊<br><span class="ec-small"><a href="https://www.englishclub.com/speaking/greetings.htm">Greetings</a>, <a href="https://www.englishclub.com/speaking/presentations.htm">Presentations</a>, <a href="https://www.englishclub.com/speaking/telephone.htm">Telephone</a>...</span></li>
+<li><strong><a href="https://www.englishclub.com/reading/">Reading Lessons</a></strong><br><span class="ec-small"><a href="https://www.englishclub.com/reading/test.htm">Reading Test</a>, <a href="https://www.englishclub.com/reading/short-stories.htm">Short Stories</a>, <a href="https://www.englishclub.com/reading/exercises.htm">Exercises</a>...</span></li>
+<li><strong><a href="https://www.englishclub.com/writing/">Writing Lessons</a></strong><br><span class="ec-small"><a href="https://www.englishclub.com/writing/alphabet.htm">Alphabet</a>, <a href="https://www.englishclub.com/writing/punctuation.htm">Punctuation</a>, <a href="https://www.englishclub.com/writing/plagiarism.htm">Plagiarism</a>...</span></li>
+<li><strong><a href="https://www.englishclub.com/esl-games/">ESL Games</a></strong><br><span class="ec-small"><a href="esl-games/grammar/">Grammar Games</a>, <a href="esl-games/pronunciation/">Pronunciation Games</a>, <a href="esl-games/vocabulary/">Vocabulary Games</a>, <a href="esl-games/spelling/">Spelling Games</a>...</span></li>
+<li><a href="esl-quizzes/"><strong>ESL Quizzes</strong></a><br><span class="ec-small"><a href="https://www.englishclub.com/esl-quizzes/grammar/">Grammar</a>, <a href="https://www.englishclub.com/esl-quizzes/vocabulary/">Vocabulary</a>, <a href="https://www.englishclub.com/esl-quizzes/pronunciation/">Pronunciation</a>, <a href="https://www.englishclub.com/esl-quizzes/listening/">Listening</a>, <a href="https://www.englishclub.com/esl-quizzes/reading/">Reading</a>, <a href="https://www.englishclub.com/esl-quizzes/spelling/">Spelling</a>...</span></li>
+<li><strong><a href="https://www.englishclub.com/esl-forums/">ESL Forums</a></strong><br><span class="ec-small"><a href="esl-forums/viewforum.php?f=242">English Help</a>, <a href="esl-forums/viewforum.php?f=226">Discussion</a>, <a href="esl-forums/viewforum.php?f=243">Talking Point</a>...</span></li>
+<li><strong><a href="https://www.englishclub.com/business-english/">Business English</a></strong><br><span class="ec-small"><a href="https://www.englishclub.com/business-english/resumes.htm">Resumes</a>, <a href="https://www.englishclub.com/business-english/meetings.htm">Meetings</a>, <a href="https://www.englishclub.com/business-english/negotiations.htm">Negotiation</a>... </span></li>
+<li><strong><a href="https://www.englishclub.com/english-for-work/">English for Work</a></strong> 🔊<br><span class="ec-small"><a href="https://www.englishclub.com/english-for-work/airline.htm">Airlines</a>, <a href="https://www.englishclub.com/english-for-work/hotel.htm">Hotels</a>, <a href="https://www.englishclub.com/english-for-work/food-drink.htm">F&amp;B</a>...</span></li>
+<li><a href="esl-videos/"><strong>ESL Videos</strong></a> 🔊<br><span class="ec-small"><a href="https://www.englishclub.com/learning-english-video/">Learning English Video</a>, <a href="https://www.myenglishclub.com/videos">MyEC Videos</a>...</span></li>
+<li><a href="esl-exams/"><strong>English Exams</strong></a> 🔊<br><span class="ec-small"><a href="https://www.englishclub.com/esl-exams/ets-toefl.htm">TOEFL</a>, <a href="https://www.englishclub.com/esl-exams/ets-toeic.htm">TOEIC</a>, <a href="https://www.englishclub.com/esl-exams/ielts.htm">IELTS</a>...</span></li>
+<li><a href="songs/"><strong>Songs for Learning English</strong></a> 🎵<br><span class="ec-small"><a href="https://www.englishclub.com/pronunciation/alphabet-song.htm">Alphabet Song</a>, <a href="https://www.englishclub.com/grammar/verbs-be-song.htm">Be Verb Song</a>...</span></li>
+<li><a href="esl-jokes/"><strong>Jokes in English</strong></a><br><span class="ec-small"><a href="https://www.englishclub.com/esl-jokes/puns/">Puns</a>, <a href="https://www.englishclub.com/esl-jokes/riddles/">Riddles</a>, <a href="https://www.englishclub.com/esl-jokes/">Jokes</a>...</span></li>
+<li><a href="kids/"><strong>English for Kids</strong></a><br><span class="ec-small"><a href="https://www.englishclub.com/kids/stories/">Short Stories</a>, <a href="https://www.englishclub.com/kids/quizzes/">Picture Quizzes</a>...</span></li>
+<li><a href="babies/"><strong>English for Babies</strong></a> 🔊</li>
+<li><a href="esl-chat/"><strong>ESL Chat</strong></a></li>
+<li><a href="https://www.englishclub.com/efl/category/articles/"><strong>ESL Articles</strong></a></li>
+<li><a href="https://www.englishclub.com/efl/category/esl-magazine/"><strong>ESL Magazine</strong></a></li>
+</ul>
+
+<!--TP-->
+<p id="talking-point" style="text-align: left;"><strong>TALKING POINT</strong><br><a href="/esl-forums/viewforum.php?f=179">Discussion</a> | <a href="/esl-forums/viewforum.php?f=192">Homework</a></p>
+<!--TP-->
+
+<h2><a href="https://www.englishclub.com/store/shop/">EnglishClub Resources</a></h2>
+
+<ul>
+<li><a href="/store/product-category/self-study-ebooks/"><strong>Self-Study eBooks</strong></a><br><span class="ec-small"><a href="store/product/english-prepositions-list/">Prepositions</a>, <a href="store/product/1000-phrasal-verbs-in-context/">Phrasal Verbs</a>, <a href="store/product/common-english-idioms/">Idioms</a></span></li>
+</ul>
+
+<h2><a href="https://www.myenglishclub.com?from=ec-hp">MyEnglishClub</a></h2>
+
+<p>Your <a href="https://www.myenglishclub.com"><strong>own page</strong></a> with <a href="https://www.myenglishclub.com/blogs">blogs</a>, <a href="https://www.myenglishclub.com/photos">photos</a>, <a href="https://www.myenglishclub.com/videos">videos</a>, <a href="https://www.myenglishclub.com/chatroom">chat</a> and more...</p>
+
+<!--COMMENTS-->
+
+<div class="bg-accent-neutral" style="padding: 0 5px 2px;">
+
+<blockquote><h2 style="text-align: left;"><a href="/about/english-club-comments.htm">What you're saying about EnglishClub</a></h2></blockquote>
+
+</div>
+
+<!--COMMENTS<-->
+
+
+<div class="twih" style="text-align: left; clear: both">
+
+<h2 style="font-size: 120%">This Week in History 🔊</h2>
+
+<p><a href="https://www.englishclub.com/this-week-in-history/" target="_top"><img src="/images/thisweek/thisweek125.png" alt="This Week in History" width="125" height="125"></a></p>
+
+<strong><a style='color:#993300' href='https://www.englishclub.com/this-week-in-history/' target='_top'>1945: USA Drops Nuclear Bombs On Japan</a></strong><br>The USA drops atomic bombs on two Japanese cities at the end of World War II. </div>
+
+
+
+</div>
+
+<div class="r" style="text-align: left">
+
+<div style="border:solid 3px #ececec; padding: .5em; margin: 1em 0; background-color: ivory; text-align: left; border-radius: 10px;">
+
+<h2 style="margin-top: 0"><a href="https://www.englishclub.com/new/">New on EnglishClub</a></h2>
+
+<p><a href="https://www.englishclub.com/efl/tefl-articles/" title="For Teachers: TEFL Articles">For Teachers: TEFL Articles</a> Essays and articles related to teaching English as a second or foreign language. If you wish, you can submit an article for publication<p><a href="https://www.englishclub.com/esl-activities/vocabulary.php" title="For Teachers: Animal Body Parts Activity Sheet">For Teachers: Animal Body Parts Activity Sheet</a> Whilst animal names may seem relatively easy to remember compared to other aspects of English vocabulary, the same cannot always be said for the parts of their bodies. And animal lover or not, you’ve got to admit that some of these words are pretty handy to know. The exercises in this activity sheet help to familiarize students with Animal Body Parts, offering them fun and varied practice through an array of written and spoken exercises.<p><a href="https://www.englishclub.com/esl-quizzes/vocabulary/expressions-topic-conflict-quiz.php" title="Expressions Quiz: Conflict">Expressions Quiz: Conflict</a> You can do this quiz online or print it on paper. It tests comprehension of common English expressions used when talking about dealing with conflict.
+<br /><img src="https://www.englishclub.com/images/esl-quizzes/esl-quiz-vocabulary.png" alt="Expressions Quiz: Conflict" width="100" height="100"/>
+<p><a href="https://www.englishclub.com/efl/listen-learn/famous-people/listenlearn-joan-of-arc/" title="Listen&Learn: Joan of Arc">Listen&Learn: Joan of Arc</a> Learn about the young girl who led the French army in battle.<p><a href="https://www.englishclub.com/efl/tefl-articles/activities/12-fun-recommendations-activities/" title="12 Fun Recommendations Activities">12 Fun Recommendations Activities</a> Stimulating classroom practice of asking for, giving and responding to personal recommendations, including recommendations games and ways of combining recommendations with other kinds of language.<p><a href="https://www.tefl.net/elt/articles/teacher-technique/strategies-to-connect-with-your-students/" title="Teachers: Top 5 Strategies to Better Connect with Your Students">Teachers: Top 5 Strategies to Better Connect with Your Students</a> The following five strategies to better relate to your students will pay off big time by both improving student performance and making your job easier<p><a href="https://www.englishclub.com/efl/listen-learn/books/bell-jar/" title="Listen&Learn: The Bell Jar">Listen&Learn: The Bell Jar</a> Learn about famous poet Sylvia Plath's only novel. 
+</div>
+
+<h2 style="margin-top: 0"><a href="https://www.englishclub.com/teach/">Teach English</a></h2>
+
+<a href="/teach/teacher-guide.htm">How to teach with EnglishClub</a>
+
+<ul>
+<li><strong><a href="https://www.englishclub.com/tefl-forums/">TEFL Forums</a></strong><br><span class="ec-small"><a href="https://www.englishclub.com/tefl-forums/viewforum.php?f=9">Discussion</a>, <a href="https://www.englishclub.com/tefl-forums/viewforum.php?f=18">Grammar</a>, <a href="https://www.englishclub.com/tefl-forums/viewforum.php?f=13">Employment</a>...</span></li>
+<li><strong><a href="https://www.tefl.net/jobs/">TEFL Jobs</a></strong>&nbsp;&nbsp;<span class="ec-small clr-ec-grey">TEFL.net</span><br><span class="ec-small"><a href="https://www.tefl.net/jobs/international/">International</a>, <a href="https://www.tefl.net/post">Post Job FREE</a>...</span></li>
+<li><strong><a href="https://www.englishclub.com/esl-worksheets/">ESL Worksheets</a></strong><br><span class="ec-small"><a href="esl-worksheets/grammar/">Grammar</a>, <a href="esl-worksheets/vocabulary/">Vocabulary</a>, <a href="esl-worksheets/pronunciation/">Pronunciation</a>, <a href="esl-worksheets/listening/">Listening</a>, <a href="esl-worksheets/speaking/">Speaking</a>, <a href="esl-worksheets/reading/">Reading</a>, <a href="esl-worksheets/writing/">Writing</a>, <a href="esl-worksheets/conversation/">Conversation</a></span></li>
+<li><a href="https://www.englishclub.com/worksheet-maker/"><strong>Worksheet Maker</strong></a><br><span class="ec-small"><a href="https://www.englishclub.com/worksheet-maker/matching.php">Matching</a>, <a href="https://www.englishclub.com/worksheet-maker/sorting.php">Sorting</a>, <a href="https://www.englishclub.com/worksheet-maker/word-scramble.php">Scrambling</a>...</span></li>
+<li><strong><a href="https://www.englishclub.com/esl-handouts/">ESL Handouts</a></strong><br><span class="ec-small"><a href="https://www.englishclub.com/esl-handouts/day-night.htm">Day/Night</a>, <a href="https://www.englishclub.com/esl-handouts/abbreviations.htm">Abbreviations</a>, <a href="https://www.englishclub.com/esl-handouts/desiderata.htm">Futility</a>...</span></li>
+<li><strong><a href="https://www.englishclub.com/esl-activities/">ESL Activities</a></strong><br><span class="ec-small"><a href="https://www.englishclub.com/efl/tefl-articles/10-tips-games-esl-classroom/">Tips for Games</a>, <a href="https://www.englishclub.com/esl-activities/ring-word.htm">Ring-a-Word</a>, <a href="https://www.englishclub.com/esl-activities/clap.htm">Clap</a>...</span></li>
+<li><strong><a href="https://www.englishclub.com/tefl-training/">TEFL Training</a></strong><br><span class="ec-small"><a href="https://www.englishclub.com/tefl-training/tefl-faq.htm">FAQ</a>, <a href="https://www.englishclub.com/tefl-training/qualifications.htm">Qualifications</a>, <a href="https://www.englishclub.com/tefl-training/terminology.htm">Acronyms</a>...</span></li>
+<li><a href="https://www.englishclub.com/efl/category/tefl-articles/"><strong>TEFL Articles</strong></a></li>
+<li><a href="https://www.englishclub.com/esl-admin/"><strong>ELT Management</strong></a></li>
+</ul>
+
+</div>
+
+
+
+<div class="l" style="clear: both;">
+<nav style="clear:both;text-align:left; margin:.5em 0">
+
+<h2>More EnglishClub Resources </h2>
+
+<p><a href="https://www.englishclub.com/what-is-english/">What is English?</a><br>A look at the English language
+<p><a href="https://www.englishclub.com/history-of-english/">History of English</a><br>Roots of English and how it came into being
+<p><a href="https://www.englishclub.com/interesting-facts/">Interesting English Facts</a><br>In no particular order...fascinating tidbits
+<p><a href="https://www.englishclub.com/efl/category/jo/">Joe's Cafe</a><br>Personal blog of EnglishClub Founder
+<p><a href="https://www.englishclub.com/efl/category/blog/">EnglishClub Blog</a><br>News and views from EnglishClub
+<p><a href="https://www.englishclub.com/language-tools/">Language Tools</a><br>From dictionaries to converters
+
+</nav>
+</div>
+
+<div class="r">
+
+<nav style="clear:both;text-align:left; margin:.5em 0">
+
+<p><a href="https://www.englishclub.com/download/">ESL Downloads</a><br>Free for learners and teachers
+<p><a href="https://www.englishclub.com/webguide/">English Links</a><br>Selected lists of useful websites
+<p><a href="https://www.englishclub.com/study-english/">Study English Worldwide</a><br>ESL schools and courses at home and abroad
+<p><a href="https://www.englishclub.com/english-clubs/">Starting an English Club</a><br>Tips for starting your own English club
+<p><a href="https://www.englishclub.com/efl/guestbook/" title="EnglishClub Guest Book">Guest Book</a><br>Let us know you were here. Just sign it!
+<p><a href="https://www.englishclub.com/about/" title="About EnglishClub">About EnglishClub</a><br>FAQs, comments, reviews
+
+</nav>
+
+</div>
+
+<div id="eslefl" style="margin: .5em 0; text-align: left; clear: both;"><strong>ESL or EFL?</strong> What do ESL and EFL mean? ESL stands for English as a Second Language. EFL stands for English as a Foreign Language. ESL is used when people learn English in an English speaking country. EFL is used when people learn English in a non-English speaking country. Is this important? Not very, if you are a learner. But there are some important technical considerations for teachers.</div>
+
+</main>
+
+<aside id="ec-sidebar">
+<center>
+
+
+<!-- AddToAny -->
+<aside style="margin: 1em 0">
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_email"></a>
+<a class="a2a_button_print"></a>
+</div>
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.num_services = 4;
+a2a_config.icon_color = "#AD7620"
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+</aside>
+<!-- AddToAny -->
+
+
+<!-- ADSENSE -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ECMid display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3505543279168530"
+     data-ad-slot="6963175664"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- ADSENSE -->
+
+<div style="text-align: left; margin: 1em 5px 0;">
+<div style="text-align: center; font-weight: bold;">
+<p><a href="/vocabulary/coronavirus-covid19.php">Covid-19 Vocab + Quiz</a></p>
+<p><a href="/vocabulary/vaccine.php">Vaccine Vocabulary + Quiz</a></p>
+<p><a href="/vocabulary/censorship.php">The Vocabulary of Censorship</a></p>
+</div>
+
+<p style="font-weight: bold; color: gray;">Popular @ EnglishClub:</p>
+<ol>
+<li><a href="/learn-english.htm">Learn English</a></li>
+<li><a href="/speaking/small-talk_conversation-starters.htm">Conversation Starters</a></li>
+<li><a href="/vocabulary/">Vocabulary</a></li>
+<li><a href="/esl-quizzes/grammar/">Grammar Quizzes</a></li>
+<li><a href="/grammar/">Grammar</a></li>
+<li><a href="/">EnglishClub Home</a></li>
+<li><a href="/kids/numbers-chart.htm">Numbers Chart 1-100</a></li>
+<li><a href="/grammar/verb-tenses.htm">12 Basic Tenses</a></li>
+<li><a href="/grammar/parts-of-speech.htm">Parts of Speech</a></li>
+<li><a href="/vocabulary/irregular-verbs-list.htm">Irregular Verbs List</a></li>
+<li><a href="/vocabulary/phrasal-verbs-list.htm">Phrasal Verbs List</a></li>
+<li><a href="/grammar/prepositions-at-in-on-time.htm">Prepositions of Time at in on</a></li>
+<li><a href="/vocabulary/wh-question-words.htm">WH- Question Words</a></li>
+<li><a href="/grammar/parts-of-speech-quiz.htm">Parts of Speech Quiz</a></li>
+</ol>
+
+</div>
+
+</center>
+</aside>
+<br id="ec-break"></div>
+<div class="ECnoprint">
+
+<style>
+
+footer {background: #333; padding: 1em 0 3em; margin-top: 0; line-height: 200%; font-family: PT Sans, San Francisco, Helvetica Neue, Roboto, Helvetica, Arial, sans-serif; font-size: 16px;}
+footer {color: white}
+footer a{text-decoration:none;color:#ed702b}
+footer li {border-bottom: solid 1px #444}
+footer ul {list-style-type: none;}
+footer p {padding-left: 25px}
+footer h3 {padding-left: 25px}
+footer h3 {color: white; border: 0}
+#footnavbar {margin-top:3em;}
+@media(min-width:767px)
+{
+.footer-wrapper {
+    background-color: #333;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-top: 0;
+}
+footer.ECnoprint {
+    max-width: 970px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+}
+.footer-nav-wrapper nav.ecscroll {
+    max-width: 970px;
+    margin: 0 auto;
+}
+}
+/* by Ali to make background full width 24-july-2021 */
+header#respo20.footer-head {
+    min-height: 50px;
+}
+.footer-nav-wrapper {
+    background-color: #AD7620;
+}
+.footer-nav-wrapper a {
+    font-family: PT Sans, San Francisco, Helvetica Neue, Roboto, Helvetica, Arial, sans-serif;
+    text-decoration: none;
+}
+@media(min-width:1024px)
+{
+.footer-nav-wrapper nav.ecscroll {
+	padding-left: 70px;
+}
+}
+</style>
+
+
+
+<header id="respo20" class="ECnoprint footer-head">
+
+<center>
+<aside style="text-align: center;">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ECPed display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3505543279168530"
+     data-ad-slot="4366213391"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</aside>
+</center>
+
+</header>
+
+<div class="footer-wrapper" style="margin-top: 1em;">
+<div class="footer-nav-wrapper">
+<nav class="ecscroll" style="clear: both;">
+<a href="/about/">About</a>
+<a href="http://eepurl.com/dNv-06">JOIN</a>
+<a href="/esl-forums/">Forums</a>
+<a href="/grammar/">Grammar</a>
+<a href="/vocabulary/">Vocabulary</a>
+<a href="/pronunciation/">Pronunciation</a>
+<a href="/listening/">Listening</a>
+<a href="/speaking/">Speaking</a>
+<a href="/reading/">Reading</a>
+<a href="/writing/">Writing</a>
+<a href="/efl/guestbook/">Guest</a>
+<a href="/efl/ec/7-secrets-for-esl-learners/">7 Secrets</a>
+<a href="https://www.equiz.me">eQuiz.Me</a>
+<a href="https://www.tefl.net">TEFL.NET</a>
+<a href="/learn-english.htm">More...</a>
+</nav>
+</div>
+<footer class="ECnoprint">
+
+<div style="background: #333; display: inline-block; vertical-align: top; width: 290px;">
+
+<h3>EnglishClub Features</h3>
+
+<ul>
+<li><a href="/search/"><span style="font-size: x-large;">&#9906;</span> Search</a></li>
+<li><a href="/learn-english.htm">LEARN English</a></li>
+<li><a href="/teach-english/">TEACH English</a></li>
+<li><a href="/store/">eBooks</a></li>
+<li><a href="/grammar/">Grammar</a></li>
+<li><a href="/vocabulary/">Vocabulary</a></li>
+<li><a href="/pronunciation/">Pronunciation</a></li>
+<li><a href="/listening/">Listening</a></li>
+<li><a href="/speaking/">Speaking</a></li>
+<li><a href="/reading/">Reading</a></li>
+<li><a href="/writing/">Writing</a></li>
+</ul>
+
+</div>
+
+<div style="background: #333; display: inline-block; vertical-align: top; width: 290px;">
+
+<h3>About EnglishClub</h3>
+<ul>
+<li><a href="/about/">About</a></li>
+<li><a href="http://eepurl.com/dNv-06">JOIN EnglishClub</a></li>
+<li><a href="https://us8.campaign-archive.com/home/?u=6512b8f4ce84dfb64ec7ca97a&id=e78a4806ad">Newsletter archive</a></li>
+<li><a href="/ads">Advertise</a></li>
+<li><a href="/linktous/">Link to us</a></li>
+<li><a href="/efl/guestbook/">Guestbook</a></li>
+<li><a href="/efl/ec/guest/">Guest posts</a></li>
+<li><a href="/efl/ec/privacy/">Privacy notice</a></li>
+<li><a href="/efl/ec/terms/">Terms of use</a></li>
+<li><a href="/efl/ec/permissions/">Permissions</a></li>
+</ul>
+
+</div>
+
+<div style="background: #333; display: inline-block; vertical-align: top; width: 290px;">
+
+<h3>Connect With EnglishClub</h3>
+
+<ul>
+<li><a href="/efl/ec/contact/">Contact EnglishClub</a></li>
+<li><a href="https://twitter.com/englishclub" target="_blank" rel="nofollow noopener">Follow EnglishClub Twitter</a></li>
+<li><a href="https://www.facebook.com/EnglishClub-115605927232780" target="_blank" rel="nofollow noopener">Like EnglishClub Facebook</a></li>
+<li><a href="https://www.youtube.com/user/englishclub" target="_blank" rel="nofollow noopener">Subscribe EnglishClub YouTube</a></li>
+<li><a href="https://gettr.com/user/englishclub" target="_blank" rel="nofollow noopener">Follow EnglishClub Gettr</a></li>
+<li><a href="https://www.linkedin.com/company/englishclub/" target="_blank" rel="nofollow noopener">Follow EnglishClub LinkedIn</a></li>
+<li><a href="https://www.pinterest.com/englishclub/" target="_blank" rel="nofollow noopener">Follow EnglishClub Pinterest</a></li>
+</ul>
+
+<h3>EnglishClub Group</h3>
+
+<ul>
+<li><a href="https://www.equiz.me">eQuiz.Me</a></li>
+<li><a href="/">EnglishClub.com</a></li>
+<li><a href="https://www.myenglishclub.com">MyEnglishClub.com</a></li>
+<li><a href="https://www.tefl.net">TEFL.NET</a></li>
+</ul>
+
+</div>
+
+<p style="border: 0; line-height: 140%; margin-right: 1em; font-size: small;">&copy; 1997-2022 <a href="https://www.englishclub.com?from=ec-footer">EnglishClub.com</a> All Rights Reserved.&nbsp;<br>The world's premier FREE educational website for learners + teachers of English<br>England &bull; since 1997<br><br></p>
+
+
+</footer>
+</div>
+
+</div></body>
+</html>
